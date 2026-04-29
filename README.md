@@ -1,4 +1,5 @@
-# 🛒 Mini-Market — Sistema de Ventas en C# (.NET 8)
+# 🛒 Mini-Market — Sistema de Ventas en C# (.NET 10
+)
 
 ## Estructura del Proyecto (Clean Architecture)
 
