@@ -1,0 +1,15 @@
+# Ignorar carpetas de compilación (son basura que se genera sola)
+bin/
+obj/
+
+# Ignorar archivos de configuración personal de Visual Studio
+.vs/
+.vscode/
+
+# Ignorar archivos comprimidos (ya que el código estará en carpetas)
+*.zip
+*.rar
+
+# Ignorar archivos temporales del sistema
+.DS_Store
+Thumbs.db
